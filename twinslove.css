@@ -1,0 +1,371 @@
+input{
+  border:1px solid black ; 
+  height:45px ; 
+  width: 600px; 
+  border-radius:20px ;
+  margin-top:30px ;
+  margin-left:600px;
+  background-color:whitesmoke ;
+  border-color:whitesmoke ;
+  
+}
+.ser{
+  margin-left:1170px ;
+  margin-top:-30px ;
+}
+.im{
+ margin-left: 1290px;
+ margin-top:-35px ;
+}
+
+.log{
+ margin-left:1220 ;
+ margin-top:-35px ; 
+}
+.one{
+ margin-top:50px ; 
+}
+.two{
+  border: 1px solid white;
+  height: 50px;
+  width: 100%;
+  margin-top:30px ;
+  background-color:whitesmoke ;
+  border-color:whitesmoke ;
+  display: grid;
+   
+  align-items: center;
+  
+  
+}
+.img1{
+  border:1px solid white ;
+  width: 250px;
+  height:330px ;
+  margin-top: 70px;
+  margin-left:70px ;
+  
+}
+.img2{
+  border: 1px solid white;
+  width: 250px;
+  height: 330px;
+  margin-left:390px ;
+  margin-top:-440px ;
+
+}
+.img3{
+  border:1px solid white ;
+  height: 330px;
+  width: 250px;
+  margin-left:720px ;
+  margin-top:-440px ;
+}
+.img4{
+  border:1px solid white ;
+  height: 330px;
+  width: 250px;
+  margin-left:1050px ;
+  margin-top:-440px ;
+}
+.pink{
+  margin-left:70px ;
+}
+.pink2{
+ border:1px solid white ; 
+ height: 40px;
+ width: 270px;
+ text-align: center;
+ border-radius:10px ;
+ margin-left:65px;
+ display: grid;
+ justify-content: center;
+ color: green;
+ border-color: darkgreen;
+ align-items: center;
+}
+.pink2:hover{
+  background-color:green ;
+  color:white ;
+}
+.soap{
+margin-left:390px ;
+}
+.soap2{
+ border:1px solid green ; 
+ height:40px ;
+ width: 270px;
+ border-radius: 10px;
+ margin-left:380px ;
+ text-align: center;
+ justify-content: center;
+ align-items: center;
+ display:grid ;
+ color:green ;
+}
+.soap2:hover{
+  background-color:green ;
+  color:white ;
+}
+.facial{
+  margin-left:720px ;
+}
+.facial2{
+  border:1px solid green ;
+  height: 40px;
+  width: 270px;
+  border-radius:10px ;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  color:green ;
+  margin-left:710px ;
+}
+.facial2:hover{
+  background-color:green ;
+  color:white ;
+}
+.face{
+  margin-left:1050px ;
+}
+.face2{
+  border:1px solid green ;
+  height: 40px;
+  width: 270px;
+  border-radius:10px ;
+  margin-left:1050 ;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+.face2:hover{
+  background-color:green ;
+  color:white ;
+}
+.img5{
+  border:1px solid white ;
+  width: 250px;
+  height: 330px;
+  margin-top:100px ;
+  margin-left:70px ;
+}
+.hair{
+ margin-left:70px ; 
+}
+.hair2{
+  border: 1px solid green;
+  height: 40px;
+  width: 270px;
+  border-radius:10px ;
+  margin-left:70px ;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.hair2:hover{
+  background-color: green;
+  color:white ;
+}
+.img6{
+ border:1px solid white ; 
+ width: 250px ;
+ height: 330px;
+ margin-left: 390px;
+ margin-top: -440px;
+}
+.glow{
+  margin-left:385px ;
+}
+.glow2{
+  border:1px solid green ;
+  height:40px ;
+  width:270px ;
+  border-radius:10px ;
+  margin-left: 385px;
+  justify-content: center;
+  display: grid;
+  align-items: center;
+  color:green ;
+}
+.glow2:hover{
+  background-color:green ;
+  color:white ;
+}
+.img7{
+  border:1px solid white;
+  height: 330px;
+  width: 250px;
+  margin-left:715px ;
+  margin-top:-440px ;
+}
+.lice{
+  margin-left:715px ;
+}
+.lice2{
+  border:1px solid green ;
+ height: 40px; 
+ width: 270px;
+ border-radius:10px ;
+ justify-content: center;
+ display: grid;
+ align-items: center;
+ color:green ;
+ margin-left:715px ;
+}
+.lice2:hover{
+  background-color:green ;
+  color:white ;
+}
+.img8{
+  border:1px solid white ;
+  height: 330px;
+  width: 250px;
+  margin-left: 1030px;
+  margin-top:-445px ;
+}
+.fast{
+ margin-left:1px ; 
+}
+.fast2{
+  border:1px solid green ;
+  height:40px ;
+  width: 270px;
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color:green ;
+}
+.fast2:hover{
+  background-color:green ;
+  color:white ;
+}
+.img9{
+  border:1px solid white;
+  height: 330px;
+  width: 250px;
+  margin-left: -950px;
+  margin-top:90px ;
+}
+.oil{
+  margin-left:-950px ;
+}
+.oil2{
+  border:1px solid green ;
+  height: 40px;
+  width: 270px;
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-left:-950px ;
+  color: green;
+}
+.oil2:hover{
+  background-color: green;
+  color: white;
+}
+.img10{
+  height:330px ;
+  width:250px ;
+  border: 1px solid white;
+  margin-left:-630px ;
+  margin-top:-440 ;
+}
+.but{
+  margin-left:-630px ;
+}
+.but2{
+  margin-left:-630px ;
+  border: 1px solid green;
+  height: 40px;
+  width: 270px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color:green ;
+
+}
+.but2:hover{background-color: green;
+  color: white;
+
+}
+.img11{
+  border: 1px solid white;
+  width: 250px;
+  height:330px ;
+ margin-left:-300px ; 
+ margin-top:-440px ;
+}
+.night{
+  margin-left:-300px ;
+}
+.night2{
+  border:1px solid green ;
+  width:270px ;
+  height:40px ;
+  margin-left:-300px ;
+  border-radius:10px ;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color:green ;
+}
+.night2:hover{
+  background-color:green ;
+  color:white ;
+}
+.img12{
+  border:1px solid white ;
+  height:330px ;
+  width: 250px;
+  margin-top:-440px ;
+  margin-left:15px ;
+}
+.gro{
+  margin-left:15px ;
+}
+.gro2{
+  border:1px solid green ;
+  height:40px ;
+  width: 270px;
+  border-radius: 10px;
+  color: green;
+  margin-top:30px ;
+  margin-left: 15px;
+  color:green ;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.gro2:hover{
+  background-color: green;
+  color:white ;
+}
+.foot{
+  height:350px ;
+  width: 1350px;
+  border:1px solid white;
+  margin-left:-1000 ;
+  margin-top:200px ;
+  background-color: black;
+}
+.us{
+  color: white;
+  margin-left:40PX ;
+  margin-top:30PX ;
+  
+}
+.num{
+  color:white ;
+  margin-left:60px ;
+  margin-top:20px ;
+
+}
+.mon{
+  color:white ;
+  margin-left:60px ;
+  margin-top:20px ;
+}
